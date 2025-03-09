@@ -1,0 +1,82 @@
+{
+    "general": {
+        "theme": "light_blue",
+        "minimize_to_tray": true,
+        "start_with_system": false,
+        "language": "zh_CN"
+    },
+    "timetable": {
+        "semester_start_date": "2025-03-09",
+        "current_week": 1,
+        "total_weeks": 20,
+        "time_slots": [
+            {
+                "name": "第1节",
+                "start": "08:00",
+                "end": "08:45"
+            },
+            {
+                "name": "第2节",
+                "start": "08:55",
+                "end": "09:40"
+            },
+            {
+                "name": "第3节",
+                "start": "10:00",
+                "end": "10:45"
+            },
+            {
+                "name": "第4节",
+                "start": "10:55",
+                "end": "11:40"
+            },
+            {
+                "name": "第5节",
+                "start": "14:00",
+                "end": "14:45"
+            },
+            {
+                "name": "第6节",
+                "start": "14:55",
+                "end": "15:40"
+            },
+            {
+                "name": "第7节",
+                "start": "16:00",
+                "end": "16:45"
+            },
+            {
+                "name": "第8节",
+                "start": "16:55",
+                "end": "17:40"
+            },
+            {
+                "name": "第9节",
+                "start": "19:00",
+                "end": "19:45"
+            },
+            {
+                "name": "第10节",
+                "start": "19:55",
+                "end": "20:40"
+            }
+        ]
+    },
+    "notification": {
+        "enable": true,
+        "advance_time": 10,
+        "sound": true
+    },
+    "weather": {
+        "enable": true,
+        "city": "北京",
+        "city_code": "101010100",
+        "update_interval": 3600
+    },
+    "appearance": {
+        "primary_color": "#3f51b5",
+        "accent_color": "#ff4081",
+        "dark_mode": false,
+        "custom_colors": {}
+    }
+}

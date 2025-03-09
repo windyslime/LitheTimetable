@@ -1,0 +1,11 @@
+PyQt5>=5.15.0
+PyQt5-sip>=12.8.0
+PyQtWebEngine>=5.15.0
+qt-material>=2.12
+requests>=2.25.0
+loguru>=0.6.0
+pytz>=2022.1
+pillow>=9.0.0
+python-dateutil>=2.8.2
+psutil>=5.9.0
+packaging>=21.3
